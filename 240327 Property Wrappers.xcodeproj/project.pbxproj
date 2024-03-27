@@ -15,6 +15,7 @@
 		A02F251A2BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F25192BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift */; };
 		A02F251C2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F251B2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift */; };
 		A02F25292BB46B21004EB4BF /* Binding_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F25282BB46B21004EB4BF /* Binding_view.swift */; };
+		A02F252B2BB49521004EB4BF /* Binding_View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F252A2BB49521004EB4BF /* Binding_View2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		A02F25192BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40327_Property_WrappersUITests.swift; sourceTree = "<group>"; };
 		A02F251B2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40327_Property_WrappersUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A02F25282BB46B21004EB4BF /* Binding_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding_view.swift; sourceTree = "<group>"; };
+		A02F252A2BB49521004EB4BF /* Binding_View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding_View2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		A02F24F22BB463D5004EB4BF = {
 			isa = PBXGroup;
 			children = (
+				A02F252A2BB49521004EB4BF /* Binding_View2.swift */,
 				A02F24FD2BB463D5004EB4BF /* 240327 Property Wrappers */,
 				A02F250E2BB463D7004EB4BF /* 240327 Property WrappersTests */,
 				A02F25182BB463D7004EB4BF /* 240327 Property WrappersUITests */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A02F25012BB463D5004EB4BF /* ContentView.swift in Sources */,
+				A02F252B2BB49521004EB4BF /* Binding_View2.swift in Sources */,
 				A02F25292BB46B21004EB4BF /* Binding_view.swift in Sources */,
 				A02F24FF2BB463D5004EB4BF /* _40327_Property_WrappersApp.swift in Sources */,
 			);
