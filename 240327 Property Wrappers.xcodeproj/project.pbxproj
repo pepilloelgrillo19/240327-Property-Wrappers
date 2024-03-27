@@ -14,6 +14,7 @@
 		A02F25102BB463D7004EB4BF /* _40327_Property_WrappersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F250F2BB463D7004EB4BF /* _40327_Property_WrappersTests.swift */; };
 		A02F251A2BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F25192BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift */; };
 		A02F251C2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F251B2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift */; };
+		A02F25292BB46B21004EB4BF /* Binding_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02F25282BB46B21004EB4BF /* Binding_view.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A02F25152BB463D7004EB4BF /* 240327 Property WrappersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240327 Property WrappersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A02F25192BB463D7004EB4BF /* _40327_Property_WrappersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40327_Property_WrappersUITests.swift; sourceTree = "<group>"; };
 		A02F251B2BB463D7004EB4BF /* _40327_Property_WrappersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40327_Property_WrappersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A02F25282BB46B21004EB4BF /* Binding_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding_view.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				A02F25002BB463D5004EB4BF /* ContentView.swift */,
 				A02F25022BB463D7004EB4BF /* Assets.xcassets */,
 				A02F25042BB463D7004EB4BF /* Preview Content */,
+				A02F25282BB46B21004EB4BF /* Binding_view.swift */,
 			);
 			path = "240327 Property Wrappers";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A02F25012BB463D5004EB4BF /* ContentView.swift in Sources */,
+				A02F25292BB46B21004EB4BF /* Binding_view.swift in Sources */,
 				A02F24FF2BB463D5004EB4BF /* _40327_Property_WrappersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
